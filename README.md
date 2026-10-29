@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Lluc Omella 👋
 
-<!--
-**llucomella/llucomella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Analyst** based in Barcelona. I like understanding how systems
+work from the inside — which pulls me between building secure infrastructure
+and breaking things in authorized labs so I learn to defend them better.
 
-Here are some ideas to get you started:
+🎓 CFGS ASIX · Cybersecurity profile (ENTI–UB)
+🛡️ Security Analyst intern @ Consorci AOC (Open Government of Catalonia)
+🧰 IT Manager @ CE Júpiter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Pinned work
+- **Amygdal** — privacy-focused Firefox fork: local website reputation scoring,
+  ad blocking, cookie-banner removal, download hash checks against URLhaus
+- **SQLI** — hands-on SQL Injection: lab exploitation (DVWA/PortSwigger) **and**
+  defense (prepared statements, WAF, least privilege)
+
+#### Skills
+Vulnerability management · Fortinet / Palo Alto · Incident response ·
+Active Directory · Linux · Microsoft 365 · Python / C++
+
+📫 [linkedin.com/in/llucomellasampera](https://www.linkedin.com/in/llucomellasampera)
